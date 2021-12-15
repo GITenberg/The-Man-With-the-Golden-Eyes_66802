@@ -10,6 +10,9 @@ contributor:
     deathdate: 1992
     gutenberg_agent_id: '34265'
     url: http://www.gutenberg.org/2009/agents/34265
+covers:
+- cover_type: archival
+  image_path: 66802-h/images/cover.jpg
 creator:
   author:
     agent_name: Hamilton, Edmond
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26787
     wikipedia: https://en.wikipedia.org/wiki/Edmond_Hamilton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66802#The-Man-With-the-Golden-Eyes
 gutenberg_issued: '2021-11-23'
 identifiers:
   gutenberg: '66802'
